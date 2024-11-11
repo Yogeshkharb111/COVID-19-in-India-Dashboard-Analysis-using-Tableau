@@ -1,5 +1,9 @@
 COVID-19 in India Dashboard Analysis
 
+Screenshot: 
+![Screenshot (997)](https://github.com/user-attachments/assets/354f7985-27d6-41d2-bf01-7f0e536154f6)
+
+
 Introduction and Objective
 
 The COVID-19 in India Dashboard Analysis project is an interactive Tableau dashboard that provides a detailed view of the COVID-19 pandemic’s impact across India. Using data on confirmed cases, deaths, recoveries, and vaccination progress, this dashboard offers insights into how different states and regions have been affected over time. The primary objective of this project is to provide a data-driven understanding of the spread, severity, and control of COVID-19 in India, helping viewers identify trends, analyze high-risk areas, and assess the effectiveness of healthcare and vaccination efforts.
